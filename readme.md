@@ -1,5 +1,10 @@
-# Project JurAni :star2:
-### Anime streaming and community website test project.
+# :star2: Project JurAni :star2:
+Anime streaming and community project
+
+Main Features:
+- :movie_camera: Anime streaming: Watch anime directly witb sub or dub!
+- :loudspeaker: Community: Talk with your friend or other watchers about the episode you've just seen
+-
 
 ## File hierarchy [Updated per: 4/21/2023 - 6:00pm]
 
